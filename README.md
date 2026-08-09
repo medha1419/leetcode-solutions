@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
@@ -25,4 +26,12 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
