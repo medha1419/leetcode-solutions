@@ -22,12 +22,14 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
