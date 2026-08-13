@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/medha1419/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/medha1419/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/medha1419/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/medha1419/leetcode-solutions/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/medha1419/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Union-Find
 |  |
 | ------- |
@@ -70,9 +72,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/medha1419/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/medha1419/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/medha1419/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/medha1419/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
