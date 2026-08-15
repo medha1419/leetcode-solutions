@@ -29,6 +29,7 @@
 | [0015-3sum](https://github.com/medha1419/leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/medha1419/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/medha1419/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -59,6 +60,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/medha1419/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -103,4 +105,8 @@
 | [0238-product-of-array-except-self](https://github.com/medha1419/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/medha1419/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/medha1419/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
