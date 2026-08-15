@@ -31,6 +31,7 @@
 | [0056-merge-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/medha1419/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/medha1419/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -97,5 +98,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/medha1419/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/medha1419/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
