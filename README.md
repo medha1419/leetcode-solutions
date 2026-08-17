@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/medha1419/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@
 | [0020-valid-parentheses](https://github.com/medha1419/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/medha1419/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/medha1419/leetcode-solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/medha1419/leetcode-solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
