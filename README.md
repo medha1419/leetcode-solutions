@@ -32,6 +32,7 @@
 | [0049-group-anagrams](https://github.com/medha1419/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/medha1419/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/medha1419/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/medha1419/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -143,4 +144,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/medha1419/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/medha1419/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/medha1419/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
