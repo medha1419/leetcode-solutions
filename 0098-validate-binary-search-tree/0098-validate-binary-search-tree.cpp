@@ -13,20 +13,13 @@ class Solution {
 
    
 public:
-    bool validate(TreeNode* root, long long min_val, long long max_val) {
-        if (root == nullptr) return true; // An empty tree is valid
-
-        // Violates BST constraint
-        if (root->val <= min_val || root->val >= max_val) return false;
-
-        // Left must stay < root->val, Right must stay > root->val
-        return validate(root->left, min_val, root->val) &&
-               validate(root->right, root->val, max_val);
-    }
-
-    bool isValidBST(TreeNode* root) {
-        // Use long long to handle INT_MIN and INT_MAX edge cases
-        return validate(root, LLONG_MIN, LLONG_MAX);
-    }
+    bool validate(TreeNode* root, long long minval, long long maxval){
+    if(root==nullptr) return true;
+    if(root->val<=minval || root->val >=maxval) return false;
+    return validate(root->left,minval,root->val) && validate(root->right,root->val,maxval);
+}
+bool isValidBST(TreeNode* root){
+    return validate(root,LLONG_MIN,LLONG_MAX);
+}
 
 };
