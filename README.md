@@ -24,6 +24,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/medha1419/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/medha1419/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/medha1419/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/medha1419/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/medha1419/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/medha1419/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +54,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/medha1419/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
@@ -116,6 +119,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/medha1419/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/medha1419/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/medha1419/leetcode-solutions/tree/master/0724-find-pivot-index) |
