@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/medha1419/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/medha1419/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/medha1419/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -20,6 +21,7 @@
 | [0020-valid-parentheses](https://github.com/medha1419/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/medha1419/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/medha1419/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/medha1419/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0049-group-anagrams](https://github.com/medha1419/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/medha1419/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/medha1419/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
