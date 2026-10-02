@@ -10,6 +10,7 @@
 | [0076-minimum-window-substring](https://github.com/medha1419/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/medha1419/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/medha1419/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/medha1419/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/medha1419/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/medha1419/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/medha1419/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/medha1419/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/medha1419/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/medha1419/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -67,6 +69,7 @@
 | [0015-3sum](https://github.com/medha1419/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/medha1419/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/medha1419/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/medha1419/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/medha1419/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/medha1419/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/medha1419/leetcode-solutions/tree/master/0169-majority-element) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -206,4 +210,12 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/medha1419/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/medha1419/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/medha1419/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/medha1419/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
