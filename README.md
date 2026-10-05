@@ -16,6 +16,7 @@
 | [0347-top-k-frequent-elements](https://github.com/medha1419/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0076-minimum-window-substring](https://github.com/medha1419/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/medha1419/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/medha1419/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/medha1419/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
