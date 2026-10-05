@@ -18,6 +18,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0724-find-pivot-index](https://github.com/medha1419/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
