@@ -1,30 +1,27 @@
 class Solution {
 public:
    bool isIsomorphic(string s, string t) {
+    vector<vector<int>> v1,v2;
+    unordered_map<char,int> mp1,mp2;
     int count1=0,count2=0;
-    unordered_map<char,int> mp1;
-    unordered_map<char,int> firsts1;
-    unordered_map<char,int> mp2;
-    unordered_map<char,int> firsts2;
-    vector<int> s1,s2;
     for(int i=0;i<s.size();++i){
-        if(mp1[s[i]]==0){
-            firsts1[s[i]]=count1;
+        if(mp1.find(s[i])==mp1.end()){
+            mp1[s[i]]=count1;
+            v1.push_back({});
             count1++;
         }
-        
-        s1.push_back(firsts1[s[i]]);
-        
-        mp1[s[i]]++;
+        v1[mp1[s[i]]].push_back(i);
     }
-    for(int i=0;i<t.size();++i){
-        if(mp2[t[i]]==0){
-            firsts2[t[i]]=count2;
+    for(int i = 0; i < t.size(); ++i){
+
+        if(mp2.find(t[i]) == mp2.end()){
+            mp2[t[i]] = count2;
+            v2.push_back({});
             count2++;
         }
-        s2.push_back(firsts2[t[i]]);
-        mp2[t[i]]++;
+
+        v2[mp2[t[i]]].push_back(i);
     }
-    return s1==s2;
+    return v1==v2;
 }
 };
