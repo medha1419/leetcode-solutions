@@ -56,6 +56,7 @@
 | [0001-two-sum](https://github.com/medha1419/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/medha1419/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/medha1419/leetcode-solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/medha1419/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/medha1419/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/medha1419/leetcode-solutions/tree/master/0046-permutations) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0015-3sum](https://github.com/medha1419/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/medha1419/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/medha1419/leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/medha1419/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/medha1419/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/medha1419/leetcode-solutions/tree/master/0189-rotate-array) |
