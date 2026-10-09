@@ -222,6 +222,7 @@
 | [0189-rotate-array](https://github.com/medha1419/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/medha1419/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/medha1419/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/medha1419/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/medha1419/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Memoization
