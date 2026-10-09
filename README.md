@@ -18,6 +18,7 @@
 | [0290-word-pattern](https://github.com/medha1419/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/medha1419/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/medha1419/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/medha1419/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -37,6 +38,7 @@
 | [0205-isomorphic-strings](https://github.com/medha1419/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/medha1419/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/medha1419/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/medha1419/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/medha1419/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -282,6 +284,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/medha1419/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/medha1419/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/medha1419/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
