@@ -221,6 +221,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/medha1419/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/medha1419/leetcode-solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/medha1419/leetcode-solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/medha1419/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Memoization
@@ -306,4 +307,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/medha1419/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/medha1419/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
