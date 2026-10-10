@@ -90,6 +90,7 @@
 | [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/medha1419/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -121,6 +122,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0392-is-subsequence](https://github.com/medha1419/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Union-Find
 |  |
 | ------- |
