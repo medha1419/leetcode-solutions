@@ -94,6 +94,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/medha1419/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/medha1419/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/medha1419/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -238,6 +239,7 @@
 | [0258-add-digits](https://github.com/medha1419/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/medha1419/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/medha1419/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/medha1419/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Memoization
