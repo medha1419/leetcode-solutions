@@ -96,6 +96,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/medha1419/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/medha1419/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/medha1419/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/medha1419/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -130,6 +131,7 @@
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -310,6 +312,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/medha1419/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
