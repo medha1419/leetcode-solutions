@@ -98,6 +98,7 @@
 | [1470-shuffle-the-array](https://github.com/medha1419/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/medha1419/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/medha1419/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/medha1419/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/medha1419/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Binary Search
@@ -323,6 +324,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/medha1419/leetcode-solutions/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/medha1419/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/medha1419/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
