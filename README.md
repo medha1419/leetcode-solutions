@@ -83,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/medha1419/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/medha1419/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/medha1419/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/medha1419/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/medha1419/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/medha1419/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/medha1419/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/medha1419/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
