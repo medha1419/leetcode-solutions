@@ -92,6 +92,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/medha1419/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/medha1419/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/medha1419/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -352,6 +353,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/medha1419/leetcode-solutions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/medha1419/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/medha1419/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/medha1419/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
@@ -361,6 +363,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/medha1419/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/medha1419/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/medha1419/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
