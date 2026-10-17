@@ -1,17 +1,15 @@
 class Solution {
 public:
     int minCostToMoveChips(vector<int>& position) {
-        int even = 0, odd = 0;
-
-        for(int x : position) {
-            if(x % 2 == 0) {
-                even++;
-            }
-            else {
-                odd++;
-            }
+        int evens=0,odds=0;
+    for(int x:position){
+        if(x%2==0){
+            evens++;
         }
-
-        return min(even, odd);
+        else{
+            odds++;
+        }
+    }
+    return min(evens,odds);
     }
 };
