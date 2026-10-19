@@ -120,6 +120,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/medha1419/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/medha1419/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/medha1419/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | [0867-transpose-matrix](https://github.com/medha1419/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/medha1419/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/medha1419/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Number Theory
 |  |
 | ------- |
