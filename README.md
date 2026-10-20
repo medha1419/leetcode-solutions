@@ -24,6 +24,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -89,6 +90,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/medha1419/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/medha1419/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/medha1419/leetcode-solutions/tree/master/0724-find-pivot-index) |
