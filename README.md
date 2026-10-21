@@ -47,6 +47,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/medha1419/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/medha1419/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Union-Find
 |  |
