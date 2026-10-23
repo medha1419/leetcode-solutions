@@ -104,6 +104,7 @@
 | [0867-transpose-matrix](https://github.com/medha1419/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/medha1419/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/medha1419/leetcode-solutions/tree/master/1089-duplicate-zeros) |
