@@ -49,6 +49,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/medha1419/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/medha1419/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/medha1419/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/medha1419/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -200,6 +201,7 @@
 | [0541-reverse-string-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/medha1419/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/medha1419/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/medha1419/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/medha1419/leetcode-solutions/tree/master/0925-long-pressed-name) |
@@ -239,6 +241,7 @@
 | [0143-reorder-list](https://github.com/medha1419/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/medha1419/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/medha1419/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -379,6 +382,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/medha1419/leetcode-solutions/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/medha1419/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/medha1419/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/medha1419/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/medha1419/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/medha1419/leetcode-solutions/tree/master/1929-concatenation-of-array) |
