@@ -31,6 +31,7 @@
 | [1512-number-of-good-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/medha1419/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
