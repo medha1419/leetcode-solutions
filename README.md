@@ -56,6 +56,7 @@
 | [0925-long-pressed-name](https://github.com/medha1419/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1189-maximum-number-of-balloons](https://github.com/medha1419/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/medha1419/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/medha1419/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Sliding Window
@@ -73,6 +74,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/medha1419/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/medha1419/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/medha1419/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/medha1419/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
@@ -164,6 +166,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/medha1419/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/medha1419/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/medha1419/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/medha1419/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/medha1419/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
 |  |
 | ------- |
