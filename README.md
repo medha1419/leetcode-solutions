@@ -30,6 +30,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/medha1419/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/medha1419/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -81,6 +82,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/medha1419/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/medha1419/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/medha1419/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/medha1419/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/medha1419/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -153,6 +155,7 @@
 | [1512-number-of-good-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/medha1419/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/medha1419/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/medha1419/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/medha1419/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/medha1419/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/medha1419/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -175,6 +178,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/medha1419/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/medha1419/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medha1419/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/medha1419/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
@@ -293,6 +297,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/medha1419/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/medha1419/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/medha1419/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/medha1419/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/medha1419/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/medha1419/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
