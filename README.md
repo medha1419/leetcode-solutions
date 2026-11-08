@@ -121,6 +121,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/medha1419/leetcode-solutions/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/medha1419/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/medha1419/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
@@ -174,6 +175,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/medha1419/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/medha1419/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/medha1419/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/medha1419/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/medha1419/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/medha1419/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/medha1419/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -196,6 +198,7 @@
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/medha1419/leetcode-solutions/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/medha1419/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/medha1419/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/medha1419/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -220,6 +223,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/medha1419/leetcode-solutions/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/medha1419/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/medha1419/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Two Pointers
 |  |
@@ -242,6 +246,7 @@
 | [0392-is-subsequence](https://github.com/medha1419/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/medha1419/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/medha1419/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/medha1419/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/medha1419/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/medha1419/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/medha1419/leetcode-solutions/tree/master/0844-backspace-string-compare) |
