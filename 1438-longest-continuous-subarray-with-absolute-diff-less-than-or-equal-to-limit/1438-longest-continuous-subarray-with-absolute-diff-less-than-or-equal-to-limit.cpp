@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums, int limit) {
-	int low = 0, high = 0, ans = 0;
+	int low = 0, high = 0, anss = 0;
 	deque<int> maxi, mini;
 	while(high<nums.size()){
 		while(!maxi.empty() && nums[maxi.back()]<nums[high]){
@@ -21,9 +21,9 @@ public:
 				mini.pop_front();
 			}
 		}
-		ans = max(ans, high - low + 1);
+		anss = max(anss, high - low + 1);
 		high++;
 	}
-	return ans;
+	return anss;
 }
 };
