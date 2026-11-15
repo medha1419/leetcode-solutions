@@ -34,6 +34,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/medha1419/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/medha1419/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/medha1419/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -69,6 +70,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/medha1419/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/medha1419/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -94,6 +96,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/medha1419/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/medha1419/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2762-continuous-subarrays](https://github.com/medha1419/leetcode-solutions/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
