@@ -98,6 +98,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/medha1419/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2762-continuous-subarrays](https://github.com/medha1419/leetcode-solutions/tree/master/2762-continuous-subarrays) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/medha1419/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/medha1419/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -181,6 +182,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/medha1419/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/medha1419/leetcode-solutions/tree/master/2762-continuous-subarrays) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/medha1419/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -198,6 +200,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/medha1419/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/medha1419/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/medha1419/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/medha1419/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/medha1419/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/medha1419/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/medha1419/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Quicksort
 |  |
 | ------- |
