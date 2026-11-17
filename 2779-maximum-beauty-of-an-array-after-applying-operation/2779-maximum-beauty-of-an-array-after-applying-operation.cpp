@@ -3,15 +3,15 @@ public:
     int maximumBeauty(vector<int>& nums, int k) {
     sort(nums.begin(), nums.end());
 
-    int low = 0, high = 0;
+    int loww = 0, high = 0;
     int ans = 0;
 
     while(high < nums.size()) {
-        while(nums[high] - nums[low] > 2*k) {
-            low++;
+        while(nums[high] - nums[loww] > 2*k) {
+            loww++;
         }
 
-        ans = max(ans, high-low+1);
+        ans = max(ans, high-loww+1);
         high++;
     }
 
