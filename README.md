@@ -24,6 +24,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/medha1419/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/medha1419/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/medha1419/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/medha1419/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -134,6 +135,7 @@
 | [0414-third-maximum-number](https://github.com/medha1419/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/medha1419/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/medha1419/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/medha1419/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/medha1419/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/medha1419/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/medha1419/leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -309,6 +311,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/medha1419/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/medha1419/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/medha1419/leetcode-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/medha1419/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/medha1419/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
@@ -348,6 +351,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/medha1419/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/medha1419/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/medha1419/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
